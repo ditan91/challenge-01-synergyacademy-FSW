@@ -1,0 +1,222 @@
+html, body, main{
+    overflow-x: hidden;
+}
+.header-BRC{
+    font-family: Helvetica;
+    background-color: #F1F3FF;
+}
+.body{
+    font-family: Helvetica;
+}
+.nav-link{
+    margin-right: 30px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+.button{
+    border: none;
+    color: white; 
+    background-color: #5CB85F;
+    font-size: 14px;
+    width: 81px;
+    height: 36px;
+}
+.h1-header{
+    font-size:36px;
+    font-weight: bold;
+}
+.p-header{
+    word-wrap: break-word;
+    font-size:14px;
+    margin-right: 18%;
+}
+.img-point-service{
+    width: 24px;
+    height: 24px;
+    margin-right: 18px;
+}
+.p-point-service{
+    font-size: 14px;
+}
+.h2-service{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+    margin-right: 18%;
+}
+.p-service{
+    word-wrap: break-word;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-right: 18%;
+    padding-top: 30px;
+}
+.img-service{
+    width: 459px;
+    height: 428px;
+}
+.p-whyus{
+    word-wrap: break-word;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-icon{
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+}
+.card-title{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px;
+    color: #000000;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.card-text{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.container-blue{
+    margin-top:100px;
+    background: #0D28A6;
+    border-radius: 13px;
+}
+.h2-testimonial{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: #FFFFFF;
+    padding-top: 64px;
+}
+.text-testimonial{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 16px;
+    position: absolute;
+    width: 468px;
+    margin-left: 342px;
+}
+.button-container-blue{
+    border: none;
+    color: white; 
+    background-color: #5CB85F;
+    font-size: 14px;
+    width: 140px;
+    height: 36px;
+    margin-top: 10%;
+    margin-bottom: 64px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+.btn-outline{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #D4D4D4;
+    border-radius: 4px;
+    width: 620px;
+    height: 56px;
+}
+.text-footer{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    font-weight: 300;
+}
+.text-footer-row2{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    font-weight: 600;
+}
+.img-footer{
+    width: 32px;
+    height: 32px;
+    margin-right: 16px;
+}
+.img-logo-footer{
+    width: 40%;
+    margin-top: -5px;
+    margin-left: -20px;
+}
+.text-title-dropdown{
+    text-align: left;
+    /* padding-left: 20px; */
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+.dropdown-item{
+    width: 620px;
+}
+.card-testimonial{
+    /* width: 1900px; */
+    /* height: 270px; */
+    margin-right: 32px;
+    background-color: #F1F3FF;
+}
+.img-testimonial{
+    width: 80px;
+    height: 80px;
+    margin-right: 46px;
+}
+.text-rate{
+    /* word-wrap: break-word; */
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    /* line-height: 20px; */
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+}
+.text-identity{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: -10px;
+}
+.img-rate{
+    margin-bottom: 10px;
+}
